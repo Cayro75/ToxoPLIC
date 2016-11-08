@@ -3,18 +3,18 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 
 #   Reference Table
 
-  ## GRA7
+  ##   GRA7
 
-  |Strains     |  13 |  26 | 36  | 45   | 50 |  59 | 90  | 91  | 97  | 100 | 102 | 106 | 108 | 112 | 115 | 124 | 127 | 129 | 131 | 132|
-  |------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|
-  |Type I      |P    |E    |R    |N   |H    |K    |L    |V    |E     |R    |D    |T    |G    |G    |L    |A    |L    |M    |L    |T   |
-  |Type II     |P    |E    |R    |N   |H    |K    |I    |L    |Q     |T    |E    |T    |G    |S    |L    |A    |L    |M    |L    |T   |
-  |Type III    |P    |E    |G    |H   |N    |K    |I    |L    |Q     |T    |D    |S    |G    |S    |I    |A    |L    |L    |I    |K   |
-  |P89         |P    |E    |G    |H   |N    |K    |I    |L    |Q     |T    |D    |S    |G    |S    |I    |V    |L    |L    |I    |K   |
-  |CAST        |P    |E    |G    |H   |H    |M    |I    |M    |Q     |A    |D    |T    |G    |N    |L    |V    |L    |L    |I    |K   |
-  |GUYKOE      |P    |E    |R    |N   |H    |K    |I    |L    |Q     |A    |E    |T    |S    |N    |L    |A    |L    |M    |L    |T   |
+  | Strains      |   13  |   26  |  36   |  45   | 50    |  59   |  90   |  91   |   97  | 100   |   102 |   106 |   108 |   112 |   115 |  124 |  127  |   129 |  131  |  132 |
+  | ------------ | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:| :---: | :---: | :---: | ---: |
+  | Type I       | P     | E     | R     | N     | H     | K     | L     | V     | E     | R     | D     | T     | G     | G     | L     | A    | L     | M     | L     | T    |
+  | Type II      | P     | E     | R     | N     | H     | K     | I     | L     | Q     | T     | E     | T     | G     | S     | L     | A    | L     | M     | L     | T    |
+  | Type III     | P     | E     | G     | H     | N     | K     | I     | L     | Q     | T     | D     | S     | G     | S     | I     | A    | L     | L     | I     | K    |
+  | P89          | P     | E     | G     | H     | N     | K     | I     | L     | Q     | T     | D     | S     | G     | S     | I     | V    | L     | L     | I     | K    |
+  | CAST         | P     | E     | G     | H     | H     | M     | I     | M     | Q     | A     | D     | T     | G     | N     | L     | V    | L     | L     | I     | K    |
+  | GUYKOE       | P     | E     | R     | N     | H     | K     | I     | L     | Q     | A     | E     | T     | S     | N     | L     | A    | L     | M     | L     | T    |
 
-  ## ROP5
+  ##    ROP5
 
   Strains     16    17    24    36   37    44    52    54   55   57   58    59    64    67
 
@@ -31,7 +31,7 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
   GUYKOE      S     I     V     G    S     R     P     F    S    T     R    L     Q     I
 
     
-  ## ROP18
+  ##    ROP18
 
   Strains     13   32    33    39    42   51   54    55   56   57   58    59   63    81    98    110  115
 
@@ -46,11 +46,4 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
   CAST        A    R     I     R     G    R    Q     A    T    G    I     T    P     R     P     S    D
 
   GUYKOE      A    R     I     R     G    R    Q     A    T    G    I     I    P     R     P     S    D
-  
-  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
