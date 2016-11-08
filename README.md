@@ -4,7 +4,7 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 #   Reference Table
 
   ## GRA7
-  
+
 
   | Strains  | 13  | 26  |  36 |  45 | 50  |  59 |  90 |  91 |  97 | 100 | 102 | 106 | 108 | 112 | 115 | 124 | 127 | 129 | 131 | 132 |
   | -------- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| ---:|
@@ -47,11 +47,4 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
   CAST        A    R     I     R     G    R    Q     A    T    G    I     T    P     R     P     S    D
 
   GUYKOE      A    R     I     R     G    R    Q     A    T    G    I     I    P     R     P     S    D
-  
-  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
