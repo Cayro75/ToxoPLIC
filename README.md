@@ -1,5 +1,5 @@
 # ToxoPLIC
-ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii based on single nucleotide polymorphisms (SNPs) in the proteins ROP5, ROP18 and GRA7. Insert sequences of at least 50 nucleotides comprising the hypervariable region of each protein (Costa et al, 2016; under review). After analysis, is provided the identity between informative SNPs of the query sequence comparing with clonal (I, II and III) and atypical strains (CAST, P89, GUYKOE). The online version is available in site [LAPLIC]: http://www.laplic.com.br
+ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii based on single nucleotide polymorphisms (SNPs) in the proteins ROP5, ROP18 and GRA7. Insert sequences of at least 50 nucleotides comprising the hypervariable region of each protein (Costa et al, 2016; under review). After analysis, is provided the identity between informative SNPs of the query sequence comparing with clonal (I, II and III) and atypical strains (CAST, P89, GUYKOE). The online version is available at http://www.laplic.com.br
 
 # Reference Table
 
