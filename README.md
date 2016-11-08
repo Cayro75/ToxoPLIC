@@ -18,52 +18,25 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 
   ## ROP5
 
-  Strains     16    17    24    36   37    44    52    54   55   57   58    59    64    67
-
-  TypeI       S     I     F     G    S     L     S     F    P    A     P    V     E     I
-
-  TypeII      S     I     V     R    T     R     L     D    S    I     P    V     Q     T
-
-  TypeIII     S     I     V     G    S     L     S     F    P    A     P    V     E     I
-
-  P89         S     I     V     G    S     L     S     F    P    A     P    V     E     I
-
-  CAST        S     I     F     G    S     L     S     F    P    A     P    V     E     I
-
-  GUYKOE      S     I     V     G    S     R     P     F    S    T     R    L     Q     I
+  Strains  | 16  | 17  | 24  | 36  | 37  | 44  | 52  | 54  | 55  | 57  | 58  | 59  | 64  | 67
+  -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+  TypeI    |  S  |  I  |  F  |  G  |  S  |  L  |  S  |  F  |  P  |  A  |  P  |  V  |  E  |  I
+  TypeII   |  S  |  I  |  V  |  R  |  T  |  R  |  L  |  D  |  S  |  I  |  P  |  V  |  Q  |  T
+  TypeIII  |  S  |  I  |  V  |  G  |  S  |  L  |  S  |  F  |  P  |  A  |  P  |  V  |  E  |  I
+  P89      |  S  |  I  |  V  |  G  |  S  |  L  |  S  |  F  |  P  |  A  |  P  |  V  |  E  |  I
+  CAST     |  S  |  I  |  F  |  G  |  S  |  L  |  S  |  F  |  P  |  A  |  P  |  V  |  E  |  I
+  GUYKOE   |  S  |  I  |  V  |  G  |  S  |  R  |  P  |  F  |  S  |  T  |  R  |  L  |  Q  |  I
 
     
   ## ROP18
 
-  Strains     13   32    33    39    42   51   54    55   56   57   58    59   63    81    98    110  115
+  Strains  | 13  | 32  | 33  | 39  | 42  | 51  | 54  | 55  | 56  | 57  | 58  | 59  | 63  | 81  | 98  | 110 | 115 
+  -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+  Type I   |  A  |  R  |  I  |  R  |  G  |  R  |  Q  |  A  |  T  |  G  |  I  |  T  |  P  |  R  |  P  |  S  |  D
+  Type II  |  A  |  R  |  I  |  P  |  G  |  R  |  Q  |  T  |  T  |  D  |  I  |  T  |  T  |  R  |  P  |  N  |  E
+  Type III |  P  |  K  |  T  |  P  |  G  |  Q  |  H  |  S  |  Y  |  G  |  V  |  T  |  A  |  S  |  S  |  N  |  E
+  P89      |  P  |  K  |  T  |  P  |  G  |  Q  |  H  |  S  |  Y  |  G  |  V  |  T  |  A  |  S  |  S  |  N  |  E
+  CAST     |  A  |  R  |  I  |  R  |  G  |  R  |  Q  |  A  |  T  |  G  |  I  |  T  |  P  |  R  |  P  |  S  |  D
+  GUYKOE   |  A  |  R  |  I  |  R  |  G  |  R  |  Q  |  A  |  T  |  G  |  I  |  I  |  P  |  R  |  P  |  S  |  D
 
-  Type I      A    R     I     R     G    R    Q     A    T    G    I     T    P     R     P     S    D
-
-  Type II     A    R     I     P     G    R    Q     T    T    D    I     T    T     R     P     N    E
-
-  Type III    P    K     T     P     G    Q    H     S    Y    G    V     T    A     S     S     N    E
-
-  P89         P    K     T     P     G    Q    H     S    Y    G    V     T    A     S     S     N    E
-
-  CAST        A    R     I     R     G    R    Q     A    T    G    I     T    P     R     P     S    D
-
-  GUYKOE      A    R     I     R     G    R    Q     A    T    G    I     I    P     R     P     S    D
-
-
-    Colons can be used to align columns.
-
-   Tables        | Are           | test          | Cool  
-   ------------- | ------------- | ------------- | ----- 
-   col 3 is      | right-aligned | right-aligned | $1600 
-   col 2 is      | centered      | ceasdfas      |   $12 
-   zebra stripes | are neat      | 123 neat      |    $1 
-
-  There must be at least 3 dashes separating each header cell.
-  The outer pipes (|) are optional, and you don't need to make the 
-  raw Markdown line up prettily. You can also use inline Markdown.
-
-  Markdown | Less | Pretty
-  --- | --- | ---
-  *Still* | `renders` | **nicely**
-  1 | 2 | 3
 
