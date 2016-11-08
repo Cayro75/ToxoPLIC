@@ -4,7 +4,8 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 #   Reference Table
 
   ## GRA7
-|
+
+
   |Strains     |  13 |  26 | 36  | 45   | 50 |  59 | 90  | 91  | 97  | 100 | 102 | 106 | 108 | 112 | 115 | 124 | 127 | 129 | 131 | 132|
   |------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|
   |Type I      |P    |E    |R    |N   |H    |K    |L    |V    |E     |R    |D    |T    |G    |G    |L    |A    |L    |M    |L    |T   |
