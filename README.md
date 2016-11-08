@@ -3,7 +3,8 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 
 #   Reference Table
 
-  ## GRA7
+  GRA7
+  ------
 
   Strains  | 13  | 26  |  36 |  45 | 50  |  59 |  90 |  91 |  97 | 100 | 102 | 106 | 108 | 112 | 115 | 124 | 127 | 129 | 131 | 132 
   -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
@@ -16,7 +17,8 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 
 
 
-  ## ROP5
+  ROP5
+  ------
 
   Strains  | 16  | 17  | 24  | 36  | 37  | 44  | 52  | 54  | 55  | 57  | 58  | 59  | 64  | 67
   -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
@@ -28,7 +30,8 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
   GUYKOE   |  S  |  I  |  V  |  G  |  S  |  R  |  P  |  F  |  S  |  T  |  R  |  L  |  Q  |  I
 
     
-  ## ROP18
+  ROP18
+  ------
 
   Strains  | 13  | 32  | 33  | 39  | 42  | 51  | 54  | 55  | 56  | 57  | 58  | 59  | 63  | 81  | 98  | 110 | 115 
   -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
