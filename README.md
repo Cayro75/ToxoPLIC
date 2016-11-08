@@ -1,10 +1,9 @@
 # ToxoPLIC
 ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii based on single nucleotide polymorphisms (SNPs) in the proteins ROP5, ROP18 and GRA7. Insert sequences of at least 50 nucleotides comprising the hypervariable region of each protein (Costa et al, 2016; under review). After analysis, is provided the identity between informative SNPs of the query sequence comparing with clonal (I, II and III) and atypical strains (CAST, P89, GUYKOE).
 
-#   Reference Table
+# Reference Table
 
-  GRA7
-  ------
+  ### GRA7
 
   Strains  | 13  | 26  |  36 |  45 | 50  |  59 |  90 |  91 |  97 | 100 | 102 | 106 | 108 | 112 | 115 | 124 | 127 | 129 | 131 | 132 
   -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
@@ -17,8 +16,7 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 
 
 
-  ROP5
-  ------
+  ### ROP5
 
   Strains  | 16  | 17  | 24  | 36  | 37  | 44  | 52  | 54  | 55  | 57  | 58  | 59  | 64  | 67
   -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
@@ -30,8 +28,7 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
   GUYKOE   |  S  |  I  |  V  |  G  |  S  |  R  |  P  |  F  |  S  |  T  |  R  |  L  |  Q  |  I
 
     
-  ROP18
-  ------
+  ### ROP18
 
   Strains  | 13  | 32  | 33  | 39  | 42  | 51  | 54  | 55  | 56  | 57  | 58  | 59  | 63  | 81  | 98  | 110 | 115 
   -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
