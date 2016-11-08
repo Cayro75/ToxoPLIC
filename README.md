@@ -21,7 +21,7 @@ ToxoPLIC - Identification of genetic variants of the protozoan Toxoplasma gondii
 #GUYKOE  S     I     V     G    S     R     P     F    S    T     R    L     Q     I
     
   #ROP18
-  ##             13   32    33    39    42   51   54    55   56   57   58    59   63    81    98    110  115
+  #             13   32    33    39    42   51   54    55   56   57   58    59   63    81    98    110  115
   #Type I        A    R     I     R     G    R    Q     A    T    G    I     T    P     R     P     S    D
   #Type II       A    R     I     P     G    R    Q     T    T    D    I     T    T     R     P     N    E
   #Type III      P    K     T     P     G    Q    H     S    Y    G    V     T    A     S     S     N    E
