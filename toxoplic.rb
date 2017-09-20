@@ -1,3 +1,4 @@
+#editado
 def getAvaliation(type, strain, proteine)
   
   if type == "GRA7"
